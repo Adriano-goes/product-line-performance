@@ -102,7 +102,8 @@ A concise one-page summary of key findings and business actions.
 ---
 
 Explore the interactive Tableau Story:
-- [➡️ Product Line Performance on Tableau Public]([https://public.tableau.com/views/ProductLinePerformance/Dashboard](https://public.tableau.com/views/OfficeSupplySales_17532884468630/productlineperformance?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
+- [Product Line Performance on Tableau Public](https://public.tableau.com/views/OfficeSupplySales_17532884468630/productlineperformance?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
+
 ---
 
 ## Tools Used
