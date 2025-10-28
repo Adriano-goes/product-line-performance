@@ -1,6 +1,6 @@
 # Product Line Performance – Tableau BI Project
 
-![Header](images/header_banner.png)
+![Header](/images/highest-performance-sales.png)
 
 ### Overview
 This project analyzes **The Paper Company’s** performance across its newer **non-paper office supply product lines**.  
