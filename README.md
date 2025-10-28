@@ -97,14 +97,12 @@ A concise one-page summary of key findings and business actions.
 
 ---
 
-🔗 View the Dashboard LiveÇ
-https://public.tableau.com/views/ProductLinePerformance_17615596531690/ProductLinePerformance?:language=en-US&publish=yes&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link
+[![View Dashboard](https://public.tableau.com/views/ProductLinePerformance_17615596531690/ProductLinePerformance?:language=en-US&publish=yes&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
 
 ---
 
 Explore the interactive Tableau Story:
-➡️ Product Line Performance on Tableau Public
-
+- [➡️ Product Line Performance on Tableau Public]([https://public.tableau.com/views/ProductLinePerformance/Dashboard](https://public.tableau.com/views/OfficeSupplySales_17532884468630/productlineperformance?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
 ---
 
 ## Tools Used
@@ -121,5 +119,5 @@ GitHub – project documentation and sharing
 Adriano Goes
 Master’s Student in Data Science & Analytics – USP/Esalq
 📍 Based in Amsterdam
-🔗 Tableau Public Profile
-🔗 LinkedIn Profile
+- [🔗 Tableau Public Profile](https://public.tableau.com/app/profile/adriano.goes/vizzes)  
+- [🔗 LinkedIn Profile](https://www.linkedin.com/in/adrianonerigoes/)
