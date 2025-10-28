@@ -90,19 +90,8 @@ Pricing Strategy	Average Unit Price varies 15–20% between regions.	Audit regio
 
 ---
 
-## Executive Summary (PDF)
-
-A concise one-page summary of key findings and business actions.
-## Download Business_Recommendations.pdf
-
----
-
-[![View Dashboard](https://public.tableau.com/views/ProductLinePerformance_17615596531690/ProductLinePerformance?:language=en-US&publish=yes&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
-
----
-
 Explore the interactive Tableau Story:
-- [Product Line Performance on Tableau Public](https://public.tableau.com/views/OfficeSupplySales_17532884468630/productlineperformance?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
+- [➡️ Product Line Performance on Tableau Public](https://public.tableau.com/views/OfficeSupplySales_17532884468630/productlineperformance?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
 
 ---
 
