@@ -48,6 +48,8 @@ df.info()
 df.describe()
 df.isna().sum()
 df['Revenue'] = df['Units'] * df['Unit Price']
+```
+---
 
 ## Observations:
 
@@ -55,16 +57,20 @@ No missing data detected.
 Revenue formula consistent with provided values.
 Some outlier pricing in “Binders” category, possibly from regional promotions.
 
+---
+
 ## Dashboard Design – Z Layout
 
 The Tableau dashboard follows a Z-pattern layout for clear data storytelling:
 
-Summary KPIs – Revenue, Units, and Unit Price
-Revenue Trends by Region – monthly performance
-Heatmap of Product Revenue – identify top-selling items
-Sales Rep Scatter Plot – performance outliers and quartiles
+- **Summary KPIs – Revenue, Units, and Unit Price
+- **Revenue Trends by Region – monthly performance
+- **Heatmap of Product Revenue – identify top-selling items
+- **Sales Rep Scatter Plot – performance outliers and quartiles
 
 Average Unit Price Comparison – pricing consistency across regions
+
+---
 
 ## Key Visuals
 1. High-Level KPIs
@@ -73,6 +79,8 @@ Average Unit Price Comparison – pricing consistency across regions
 4. Revenue by Sales Rep (Scatter Plot)
 5. Unit Price by Region
 
+---
+
 ## Insights & Recommendations
 Area	Insight	Recommendation
 Regional Performance	The North Region consistently outperforms others but shows the widest unit price variance.	Review pricing policy and apply standardized pricing or discounts based on margins.
@@ -80,28 +88,38 @@ Sales Team	2 reps (Julia & Frank) generate 35% of total revenue; 3 reps underper
 Product Lines	Binders and Staplers show declining revenue trends despite stable unit prices.	Consider limited-time promotions or bundling strategies.
 Pricing Strategy	Average Unit Price varies 15–20% between regions.	Audit regional pricing and evaluate competitive benchmarks.
 
+---
+
 ## Executive Summary (PDF)
 
 A concise one-page summary of key findings and business actions.
 ## Download Business_Recommendations.pdf
 
-🔗 View the Dashboard Live
+---
+
+🔗 View the Dashboard LiveÇ
+https://public.tableau.com/views/ProductLinePerformance_17615596531690/ProductLinePerformance?:language=en-US&publish=yes&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link
+
+---
 
 Explore the interactive Tableau Story:
 ➡️ Product Line Performance on Tableau Public
 
-🧰 Tools Used
+---
+
+## Tools Used
 
 Tableau Public – dashboard creation and storytelling
 Python (Pandas) – data exploration and validation
 Excel – quick review and data checks
 GitHub – project documentation and sharing
 
-🪄 Author
+---
 
-Adriano [Your Last Name]
+## Author
+
+Adriano Goes
 Master’s Student in Data Science & Analytics – USP/Esalq
 📍 Based in Amsterdam
 🔗 Tableau Public Profile
-
 🔗 LinkedIn Profile
