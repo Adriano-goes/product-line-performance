@@ -82,11 +82,12 @@ Average Unit Price Comparison – pricing consistency across regions
 ---
 
 ## Insights & Recommendations
-Area	Insight	Recommendation
-Regional Performance	The North Region consistently outperforms others but shows the widest unit price variance.	Review pricing policy and apply standardized pricing or discounts based on margins.
-Sales Team	2 reps (Julia & Frank) generate 35% of total revenue; 3 reps underperform.	Provide targeted sales training and reassign territories.
-Product Lines	Binders and Staplers show declining revenue trends despite stable unit prices.	Consider limited-time promotions or bundling strategies.
-Pricing Strategy	Average Unit Price varies 15–20% between regions.	Audit regional pricing and evaluate competitive benchmarks.
+| **Area** | **Insight** | **Recommendation** |
+|-----------|--------------|--------------------|
+| **Regional Performance** | The North Region consistently outperforms others but shows the widest unit price variance. | Review pricing policy and apply standardized pricing or discounts based on margins. |
+| **Sales Team** | 2 reps (Julia & Frank) generate 35% of total revenue; 3 reps underperform. | Provide targeted sales training and reassign territories. |
+| **Product Lines** | Binders and Staplers show declining revenue trends despite stable unit prices. | Consider limited-time promotions or bundling strategies. |
+| **Pricing Strategy** | Average Unit Price varies 15–20% between regions. | Audit regional pricing and evaluate competitive benchmarks. |
 
 ---
 
